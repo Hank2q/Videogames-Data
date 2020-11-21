@@ -1,0 +1,478 @@
+[
+    {
+        "Half-Life 2": {
+            "user score": "9.1",
+            "meta score": "96",
+            "developer": "VU Games",
+            "release date": "Nov 16, 2004",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "Grand Theft Auto V": {
+            "user score": "7.8",
+            "meta score": "96",
+            "developer": "Rockstar Games",
+            "release date": "Apr 13, 2015",
+            "rating": "M",
+            "genres": [
+                "Modern",
+                "Action Adventure",
+                "Open-World"
+            ]
+        }
+    },
+    {
+        "Out of the Park Baseball 2007": {
+            "user score": "2.5",
+            "meta score": "96",
+            "developer": "Sports Interactive",
+            "release date": "Mar 23, 2006",
+            "rating": "E",
+            "genres": [
+                "Sports",
+                "Traditional",
+                "Team",
+                "Baseball",
+                "Management",
+                "Management",
+                "Sim"
+            ]
+        }
+    },
+    {
+        "The Orange Box": {
+            "user score": "9.2",
+            "meta score": "96",
+            "developer": "EA Games",
+            "release date": "Oct 10, 2007",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Miscellaneous",
+                "Shooter",
+                "Compilation",
+                "First-Person",
+                "Sci-Fi"
+            ]
+        }
+    },
+    {
+        "Half-Life": {
+            "user score": "9.0",
+            "meta score": "96",
+            "developer": "Sierra Entertainment",
+            "release date": "Nov 19, 1998",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "BioShock": {
+            "user score": "8.6",
+            "meta score": "96",
+            "developer": "2K Games",
+            "release date": "Aug 21, 2007",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "Baldur's Gate II: Shadows of Amn": {
+            "user score": "9.1",
+            "meta score": "95",
+            "developer": "Interplay",
+            "release date": "Sep 24, 2000",
+            "rating": "T",
+            "genres": [
+                "Role-Playing",
+                "PC-style RPG",
+                "PC-style RPG",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "Divinity: Original Sin II - Definitive Edition": {
+            "user score": "9.0",
+            "meta score": "95",
+            "developer": "Larian Studios Games",
+            "release date": "Aug 31, 2018",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "Portal 2": {
+            "user score": "9.1",
+            "meta score": "95",
+            "developer": "Valve Software",
+            "release date": "Apr 18, 2011",
+            "rating": "E10+",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "The Elder Scrolls V: Skyrim": {
+            "user score": "8.3",
+            "meta score": "94",
+            "developer": "Bethesda Softworks",
+            "release date": "Nov 10, 2011",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "First-Person",
+                "First-Person",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "Command & Conquer": {
+            "user score": "8.9",
+            "meta score": "94",
+            "developer": "Virgin Interactive",
+            "release date": "Sep 26, 1995",
+            "rating": "T",
+            "genres": [
+                "Sci-Fi",
+                "Strategy",
+                "Real-Time",
+                "Sci-Fi",
+                "General",
+                "Command"
+            ]
+        }
+    },
+    {
+        "Mass Effect 2": {
+            "user score": "8.9",
+            "meta score": "94",
+            "developer": "Electronic Arts",
+            "release date": "Jan 26, 2010",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Action RPG",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Grand Theft Auto: Vice City": {
+            "user score": "8.8",
+            "meta score": "94",
+            "developer": "Rockstar Games",
+            "release date": "May 12, 2003",
+            "rating": "M",
+            "genres": [
+                "Action Adventure",
+                "Modern",
+                "Modern",
+                "Open-World"
+            ]
+        }
+    },
+    {
+        "Factorio": {
+            "user score": "9.3",
+            "meta score": "94",
+            "developer": "Wube Software LTD.",
+            "release date": "Aug 14, 2020",
+            "rating": null,
+            "genres": [
+                "Strategy",
+                "Management",
+                "Business / Tycoon"
+            ]
+        }
+    },
+    {
+        "Sid Meier's Civilization II": {
+            "user score": "8.8",
+            "meta score": "94",
+            "developer": "MicroProse",
+            "release date": "Feb 29, 1996",
+            "rating": "K-A",
+            "genres": [
+                "Strategy",
+                "Turn-Based",
+                "Historic",
+                "General",
+                "Historic",
+                "4X"
+            ]
+        }
+    },
+    {
+        "Quake": {
+            "user score": "8.8",
+            "meta score": "94",
+            "developer": "id Software",
+            "release date": "Jun 22, 1996",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "BioShock Infinite": {
+            "user score": "8.6",
+            "meta score": "94",
+            "developer": "2K Games",
+            "release date": "Mar 25, 2013",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "The Elder Scrolls IV: Oblivion": {
+            "user score": "8.1",
+            "meta score": "94",
+            "developer": "2K Games",
+            "release date": "Mar 20, 2006",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "First-Person",
+                "First-Person",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "Grim Fandango": {
+            "user score": "9.1",
+            "meta score": "94",
+            "developer": "LucasArts",
+            "release date": "Oct 14, 1998",
+            "rating": "T",
+            "genres": [
+                "Adventure",
+                "General",
+                "General",
+                "3D",
+                "Third-Person",
+                "Fantasy"
+            ]
+        }
+    },
+    {
+        "Divinity: Original Sin Enhanced Edition": {
+            "user score": "8.3",
+            "meta score": "94",
+            "developer": "Larian Studios Games",
+            "release date": "Oct 27, 2015",
+            "rating": "M",
+            "genres": [
+                "Action RPG",
+                "Role-Playing",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "Diablo": {
+            "user score": "8.7",
+            "meta score": "94",
+            "developer": "Blizzard Entertainment",
+            "release date": "Dec 31, 1996",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Action RPG",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Sid Meier's Civilization IV": {
+            "user score": "8.3",
+            "meta score": "94",
+            "developer": "2K Games",
+            "release date": "Oct 25, 2005",
+            "rating": "E10+",
+            "genres": [
+                "Strategy",
+                "Turn-Based",
+                "Historic",
+                "Historic",
+                "4X"
+            ]
+        }
+    },
+    {
+        "The Witcher 3: Wild Hunt": {
+            "user score": "9.4",
+            "meta score": "93",
+            "developer": "Warner Bros. Interactive Entertainment",
+            "release date": "May 18, 2015",
+            "rating": "M",
+            "genres": [
+                "Action RPG",
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Company of Heroes": {
+            "user score": "8.8",
+            "meta score": "93",
+            "developer": "THQ",
+            "release date": "Sep 13, 2006",
+            "rating": "M",
+            "genres": [
+                "Strategy",
+                "Real-Time",
+                "Historic",
+                "General",
+                "Historic"
+            ]
+        }
+    },
+    {
+        "Half-Life: Alyx": {
+            "user score": "9.1",
+            "meta score": "93",
+            "developer": "Valve Software",
+            "release date": "Mar 23, 2020",
+            "rating": null,
+            "genres": [
+                "Action",
+                "First-Person",
+                "Shooter",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "Divinity: Original Sin II": {
+            "user score": "8.8",
+            "meta score": "93",
+            "developer": "Larian Studios Games",
+            "release date": "Sep 14, 2017",
+            "rating": null,
+            "genres": [
+                "Action RPG",
+                "Role-Playing",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "Unreal Tournament 2004": {
+            "user score": "8.8",
+            "meta score": "93",
+            "developer": "Atari",
+            "release date": "Mar 16, 2004",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Shooter",
+                "Shooter",
+                "First-Person",
+                "Sci-Fi",
+                "Sci-Fi",
+                "Arcade"
+            ]
+        }
+    },
+    {
+        "Starcraft II: Wings of Liberty": {
+            "user score": "8.3",
+            "meta score": "93",
+            "developer": "Blizzard Entertainment",
+            "release date": "Jul 27, 2010",
+            "rating": "T",
+            "genres": [
+                "Strategy",
+                "Real-Time",
+                "Sci-Fi",
+                "Command"
+            ]
+        }
+    },
+    {
+        "Minecraft": {
+            "user score": "7.9",
+            "meta score": "93",
+            "developer": "Mojang AB",
+            "release date": "Nov 18, 2011",
+            "rating": null,
+            "genres": [
+                "Action Adventure",
+                "Adventure",
+                "3D",
+                "Sandbox",
+                "First-Person",
+                "Fantasy",
+                "Fantasy"
+            ]
+        }
+    },
+    {
+        "Beat Saber": {
+            "user score": "8.3",
+            "meta score": "93",
+            "developer": "Hyperbolic Magnetism",
+            "release date": "May 21, 2019",
+            "rating": null,
+            "genres": [
+                "Action",
+                "General"
+            ]
+        }
+    }
+]

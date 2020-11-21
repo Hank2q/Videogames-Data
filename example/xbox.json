@@ -1,0 +1,416 @@
+[
+    {
+        "Red Dead Redemption 2": {
+            "user score": "7.8",
+            "meta score": "97",
+            "developer": "Rockstar Games",
+            "release date": "Oct 26, 2018",
+            "rating": "M",
+            "genres": [
+                "Action Adventure",
+                "Open-World"
+            ]
+        }
+    },
+    {
+        "Grand Theft Auto V": {
+            "user score": "7.8",
+            "meta score": "97",
+            "developer": "Rockstar Games",
+            "release date": "Nov 18, 2014",
+            "rating": "M",
+            "genres": [
+                "Action Adventure",
+                "Modern",
+                "Open-World"
+            ]
+        }
+    },
+    {
+        "Metal Gear Solid V: The Phantom Pain": {
+            "user score": "7.4",
+            "meta score": "95",
+            "developer": "Konami",
+            "release date": "Sep  1, 2015",
+            "rating": "M",
+            "genres": [
+                "Modern",
+                "Modern",
+                "Action Adventure",
+                "Open-World"
+            ]
+        }
+    },
+    {
+        "Celeste": {
+            "user score": "7.1",
+            "meta score": "94",
+            "developer": "Matt Makes Games Inc.",
+            "release date": "Jan 26, 2018",
+            "rating": "E10+",
+            "genres": [
+                "Action",
+                "Platformer",
+                "2D"
+            ]
+        }
+    },
+    {
+        "The Witcher 3: Wild Hunt - Blood and Wine": {
+            "user score": "8.7",
+            "meta score": "94",
+            "developer": "Warner Bros. Interactive Entertainment",
+            "release date": "May 31, 2016",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Resident Evil 2": {
+            "user score": "8.6",
+            "meta score": "93",
+            "developer": "Capcom",
+            "release date": "Jan 25, 2019",
+            "rating": "M",
+            "genres": [
+                "Action Adventure",
+                "Survival"
+            ]
+        }
+    },
+    {
+        "INSIDE": {
+            "user score": "8.3",
+            "meta score": "93",
+            "developer": "PLAYDEAD",
+            "release date": "Jun 29, 2016",
+            "rating": "M",
+            "genres": [
+                "Action",
+                "Platformer",
+                "2D"
+            ]
+        }
+    },
+    {
+        "Forza Horizon 4": {
+            "user score": "8.1",
+            "meta score": "92",
+            "developer": "Microsoft Game Studios",
+            "release date": "Sep 28, 2018",
+            "rating": "E",
+            "genres": [
+                "Racing",
+                "Simulation",
+                "Automobile"
+            ]
+        }
+    },
+    {
+        "Divinity: Original Sin II - Definitive Edition": {
+            "user score": "7.7",
+            "meta score": "92",
+            "developer": "Larian Studios Games",
+            "release date": "Aug 31, 2018",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Western-Style"
+            ]
+        }
+    },
+    {
+        "What Remains of Edith Finch": {
+            "user score": "7.7",
+            "meta score": "92",
+            "developer": "Annapurna Interactive",
+            "release date": "Jul 19, 2017",
+            "rating": "T",
+            "genres": [
+                "Adventure",
+                "3D",
+                "First-Person"
+            ]
+        }
+    },
+    {
+        "The Swapper": {
+            "user score": "7.5",
+            "meta score": "92",
+            "developer": "Curve Digital",
+            "release date": "Jun  5, 2015",
+            "rating": "E10+",
+            "genres": [
+                "Action",
+                "Platformer",
+                "2D"
+            ]
+        }
+    },
+    {
+        "The Witcher 3: Wild Hunt": {
+            "user score": "9.2",
+            "meta score": "91",
+            "developer": "Warner Bros. Interactive Entertainment",
+            "release date": "May 19, 2015",
+            "rating": "M",
+            "genres": [
+                "Action RPG",
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Rayman Legends": {
+            "user score": "7.9",
+            "meta score": "91",
+            "developer": "Ubisoft",
+            "release date": "Feb 18, 2014",
+            "rating": "E10+",
+            "genres": [
+                "Platformer",
+                "2D",
+                "Action",
+                "Platformer",
+                "2D"
+            ]
+        }
+    },
+    {
+        "Overwatch": {
+            "user score": "5.9",
+            "meta score": "91",
+            "developer": "Blizzard Entertainment",
+            "release date": "May 23, 2016",
+            "rating": "T",
+            "genres": [
+                "Action",
+                "Shooter",
+                "First-Person",
+                "Tactical"
+            ]
+        }
+    },
+    {
+        "Sekiro: Shadows Die Twice": {
+            "user score": "8.0",
+            "meta score": "91",
+            "developer": "Activision",
+            "release date": "Mar 22, 2019",
+            "rating": "M",
+            "genres": [
+                "Action Adventure",
+                "General"
+            ]
+        }
+    },
+    {
+        "Forza Horizon 3": {
+            "user score": "8.0",
+            "meta score": "91",
+            "developer": "Microsoft Game Studios",
+            "release date": "Sep 23, 2016",
+            "rating": "E",
+            "genres": [
+                "Racing",
+                "Simulation",
+                "Automobile"
+            ]
+        }
+    },
+    {
+        "Dead Cells": {
+            "user score": "8.0",
+            "meta score": "91",
+            "developer": "Motion Twin",
+            "release date": "Aug  7, 2018",
+            "rating": "T",
+            "genres": [
+                "Action",
+                "Platformer",
+                "2D"
+            ]
+        }
+    },
+    {
+        "F1 2020": {
+            "user score": "7.2",
+            "meta score": "91",
+            "developer": "Codemasters",
+            "release date": "Jul 10, 2020",
+            "rating": "E",
+            "genres": [
+                "Racing",
+                "Simulation",
+                "Automobile"
+            ]
+        }
+    },
+    {
+        "Hollow Knight: Voidheart Edition": {
+            "user score": "8.7",
+            "meta score": "90",
+            "developer": "Team Cherry",
+            "release date": "Sep 25, 2018",
+            "rating": "E10+",
+            "genres": [
+                "Action Adventure",
+                "General"
+            ]
+        }
+    },
+    {
+        "Monster Hunter: World - Iceborne": {
+            "user score": "8.2",
+            "meta score": "90",
+            "developer": "Capcom",
+            "release date": "Sep  6, 2019",
+            "rating": "T",
+            "genres": [
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "NieR: Automata - Become as Gods Edition": {
+            "user score": "9.0",
+            "meta score": "90",
+            "developer": "Square Enix",
+            "release date": "Jun 26, 2018",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "The Witcher 3: Wild Hunt - Hearts of Stone": {
+            "user score": "9.3",
+            "meta score": "90",
+            "developer": "Warner Bros. Interactive Entertainment",
+            "release date": "Oct 13, 2015",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Monster Hunter: World": {
+            "user score": "7.1",
+            "meta score": "90",
+            "developer": "Capcom",
+            "release date": "Jan 26, 2018",
+            "rating": "T",
+            "genres": [
+                "Role-Playing",
+                "Action RPG"
+            ]
+        }
+    },
+    {
+        "Pinball FX3: Universal Classics Pinball": {
+            "user score": "6.0",
+            "meta score": "90",
+            "developer": "Zen Studios",
+            "release date": "Sep 26, 2017",
+            "rating": "E10+",
+            "genres": [
+                "Action",
+                "Pinball"
+            ]
+        }
+    },
+    {
+        "Yakuza: Like a Dragon": {
+            "user score": "8.1",
+            "meta score": "90",
+            "developer": "Sega",
+            "release date": "Nov 10, 2020",
+            "rating": "M",
+            "genres": [
+                "Role-Playing",
+                "Japanese-Style"
+            ]
+        }
+    },
+    {
+        "Ori and the Will of the Wisps": {
+            "user score": "8.8",
+            "meta score": "90",
+            "developer": "Microsoft Game Studios",
+            "release date": "Mar 11, 2020",
+            "rating": "E",
+            "genres": [
+                "Action",
+                "Platformer",
+                "2D"
+            ]
+        }
+    },
+    {
+        "NBA 2K17": {
+            "user score": "5.9",
+            "meta score": "90",
+            "developer": "2K Games",
+            "release date": "Sep 16, 2016",
+            "rating": "E",
+            "genres": [
+                "Sports",
+                "Team",
+                "Basketball",
+                "Sim"
+            ]
+        }
+    },
+    {
+        "Yakuza 0": {
+            "user score": "7.9",
+            "meta score": "90",
+            "developer": "SegaSoft",
+            "release date": "Feb 26, 2020",
+            "rating": "M",
+            "genres": [
+                "Action Adventure",
+                "Open-World"
+            ]
+        }
+    },
+    {
+        "Call of Duty: Modern Warfare Remastered": {
+            "user score": "6.2",
+            "meta score": "89",
+            "developer": "Activision",
+            "release date": "Nov  4, 2016",
+            "rating": "M",
+            "genres": [
+                "Arcade",
+                "Action",
+                "Shooter",
+                "First-Person",
+                "Tactical"
+            ]
+        }
+    },
+    {
+        "F1 2019": {
+            "user score": "6.8",
+            "meta score": "89",
+            "developer": "Codemasters",
+            "release date": "Jun 25, 2019",
+            "rating": "E",
+            "genres": [
+                "Racing",
+                "Simulation",
+                "Automobile"
+            ]
+        }
+    }
+]
